@@ -1,0 +1,14 @@
+npm install express
+npm install --save-dev @babel/core @babel/node @babel/preset-env
+    @babel/cli @babel/plugin-transform-runtime
+npm install @babel/runtime
+npm install --save-dev nodemon
+brew install mongosh
+npm install mongodb
+
+
+
+
+babel - is used to get the most latest javascript syntax available for nodejs
+homebrew - is used to use Mongo shell in your command line
+axios - used to connect frontend and backend
